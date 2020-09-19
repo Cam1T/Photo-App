@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>538422803415-a7cniq1r0p21up8rtn64hbg5nhv5uq7u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.538422803415-a7cniq1r0p21up8rtn64hbg5nhv5uq7u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-nU44olCKyf4MJJvgMJPgO_qLJ2p564o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538422803415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cjapps.photoapp</string>
+	<key>PROJECT_ID</key>
+	<string>photoapp-d257d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>photoapp-d257d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538422803415:ios:20e488a8a56c2714b02992</string>
+	<key>DATABASE_URL</key>
+	<string>https://photoapp-d257d.firebaseio.com</string>
+</dict>
+</plist>
